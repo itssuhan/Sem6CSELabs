@@ -4,7 +4,7 @@
 These are the lab programs which were executed during my VI Semester (2023-24) of my CSE Course
 
 Its organised into :-
-1. [Parallel Programming Lab Lab](https://github.com/itssuhan/Sem6CSELabs) (PPL Lab)
+1. [Parallel Programming Lab Lab](https://github.com/itssuhan/Sem6CSELabs) (PCAPL Lab)
   (Language Used : C Language)
 
 2. [Distributed Systems Lab]() (DS Lab) 
