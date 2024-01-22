@@ -9,6 +9,3 @@ b = c
 
 print("Value of a is", a)
 print("Value of b is", b)
-
-
-
