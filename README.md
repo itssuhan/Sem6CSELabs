@@ -11,5 +11,4 @@ Its organised into :-
 (Language Used : Python)
 
 3. [Internet Technologies Lab]() (IT Lab)
-(Language Used : HTML)
-
+(Language Used : HTML,Javascript,Python)
