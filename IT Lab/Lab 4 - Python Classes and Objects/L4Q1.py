@@ -28,8 +28,14 @@ class SubsetGenerator:
         current_subset.pop()
         self._generate(current_subset, start_index + 1)
 
+nums = []
 
-nums = [1, 2, 3]
+N = int(input("Enter no of Elements in an array"))
+
+for i in range(N):
+    element = int(input("Enter the element"))
+    nums.append(element)
+       
 subset_generator = SubsetGenerator(nums)
 all_subsets = subset_generator.generate_subsets()
 
