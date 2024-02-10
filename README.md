@@ -10,5 +10,5 @@ Its organised into :-
 2. [Distributed Systems Lab](https://github.com/itssuhan/Sem6CSELabs/tree/main/DSLab) (DS Lab) 
 (Language Used : Python)
 
-3. [Internet Technologies Lab]() (IT Lab)
+3. [Internet Technologies Lab](https://github.com/itssuhan/Sem6CSELabs/tree/main/ITLab) (IT Lab)
 (Language Used : HTML,Javascript,Python)
